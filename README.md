@@ -78,6 +78,7 @@ Samsung Galaxy 7
 ### Deployment 
 This site was deployed on GitHub pages directly from the master branch and will uppdate automatically with new commits to the master branch.
 The landing page must be named index.html to run.
+https://mdbootstrap.com/docs/jquery/modals/forms/
 
 To run locally simply paste https://github.com/Pontushol/magna-mater-milestone-project.git into the terminal of your choice.
 type git remote rm into terminal to cut ties from this repository.
