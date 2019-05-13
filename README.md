@@ -28,6 +28,9 @@ The contact form is easy to access should they want to book a show.
 3. Javascript
 4. Bootstrap v 4.3
 5. Adobe XD for mockups
+6. Cloud9 editor
+7. Visual studio Code editor
+
 
 
 ### Features
@@ -86,7 +89,7 @@ type git remote rm into terminal to cut ties from this repository.
 
 ### Credits 
 
-##### Content 
+##### Content
 All the content was written by me Pontus Holmqvist
 
 ##### Media 
@@ -102,5 +105,12 @@ however significant changes had to be made to make it work.
 
 Inspiration for the Contact Modal was fount on https://mdbootstrap.com/docs/jquery/modals/forms/
 Slight changes were made to design.
+
+##### Last Mention
+While writing the code of the site the fiber of my house was accidently cut off due to construction
+because of this i had to write most of the code in VS Code instead of in Cloud 9 as i had intended at first. 
+As i did not have Git installed on my computer this has left my usage of github slightly lacking.
+I have tried to commit the code according to the sessions in which it was written to be able to check my proggress
+but changes and additions made in between and after as hard to "manifacture" and so the repository is not as strucktured as i ould have liked. 
 
 
