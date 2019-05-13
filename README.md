@@ -8,7 +8,8 @@ Their specifications for the website were that they wanted a new platform to com
 social media accounts with quick overview of uppcomming shows to make it easier to keep track of the band. 
 They also wanted a booking function on the site to simplify booking the band.
 
-
+#### launched at
+https://pontushol.github.io/magna-mater/
 
 
 ### UX 
@@ -97,5 +98,8 @@ The Video Modals was found on https://codepen.io/JacobLett/pen/xqpEYE, slight ch
 
 Inspiration for the Video Modal Buttonos was found on https://stackoverflow.com/questions/8683528/embed-image-in-a-button-element
 however significant changes had to be made to make it work. 
+
+Inspiration for the Contact Modal was fount on https://mdbootstrap.com/docs/jquery/modals/forms/
+Slight changes were made to design.
 
 
